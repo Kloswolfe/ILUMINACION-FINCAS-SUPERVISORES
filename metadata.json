@@ -1,0 +1,6 @@
+{
+  "name": "CONTROL DE ILUMINACION DE FINCAS DOLE",
+  "description": "Sistema de control y reporte de iluminación de fincas DOLE con extracción automática de nombres en mapas, supervisión por zonas y reportes PDF consolidados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
